@@ -1,0 +1,154 @@
+.pagnier{
+    display: flex;
+    padding: 50px;
+    border: 2px outset plum;
+    border-radius: 20px;
+    
+}
+
+
+.bloc-1 {
+    text-align: center;
+}
+
+
+.article1{
+   margin:auto;
+   border: 1px solid rgb(245, 242, 242) ;
+   width: 320px;
+    height: 400px;
+    position: relative;
+    text-align: center;
+    
+}
+
+.article1 .pied_image  {
+    display: flex;
+    justify-content: center;
+}
+
+
+.article1 .image .position_but  {
+    position: absolute;
+    right: -2px;
+    border: none;
+    
+}
+
+
+
+
+.article1 .pied_image .style_icone{
+    border: hidden;
+    background-color: white;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+
+.article1 .price {
+    margin-top: -20px;
+    
+}
+
+
+.article1 .boutton {
+    margin-top: 20px;
+}
+
+
+
+
+.article2{
+    margin:auto;
+    border: 1px solid rgb(245, 242, 242) ;
+    width: 320px;
+    height: 400px;
+     position: relative;
+     text-align: center;
+     
+ }
+ 
+ .article2 .pied_image  {
+     display: flex;
+     justify-content: center;
+ }
+ 
+ 
+ .article2 .image .position_but  {
+     position: absolute;
+     right: -2px;
+     border: none;
+     
+ }
+ 
+ 
+ 
+ 
+ .article2 .pied_image .style_icone{
+     border: hidden;
+     background-color: white;
+     margin-left: 10px;
+     font-size: 20px;
+ }
+ 
+ 
+ .article2 .price {
+     margin-top: -20px;
+     
+ }
+ 
+ 
+ .article2 .boutton {
+     margin-top: 20px;
+ }
+
+
+
+
+ 
+.article3{
+    margin:auto;
+    border: 1px solid rgb(245, 242, 242) ;
+    width: 320px;
+    height: 400px;
+     position: relative;
+     text-align: center;
+     
+ }
+ 
+ .article3 .pied_image  {
+     display: flex;
+     justify-content: center;
+ }
+ 
+ 
+ .article3 .image .position_but  {
+     position: absolute;
+     right: -2px;
+     border: none;
+     
+ }
+ 
+ 
+ 
+ 
+ .article3 .pied_image .style_icone{
+     border: hidden;
+     background-color: white;
+     margin-left: 10px;
+     font-size: 20px;
+ }
+ 
+ 
+ .article3 .price {
+     margin-top: -20px;
+     
+ }
+ 
+ 
+ .article3 .boutton {
+     margin-top: 20px;
+ }
+
+ 
