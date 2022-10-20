@@ -28,7 +28,7 @@
 }
 
 
-.article1 .image .position_but  {
+.article1 .image .xmark  {
     position: absolute;
     right: -2px;
     border: none;
@@ -43,7 +43,10 @@
     background-color: white;
     margin-left: 10px;
     font-size: 20px;
+    color: brown;
 }
+
+/* .article1 .pied_image .style_icone{} */
 
 
 .article1 .price {
@@ -75,7 +78,7 @@
  }
  
  
- .article2 .image .position_but  {
+ .article2 .image .xmark {
      position: absolute;
      right: -2px;
      border: none;
@@ -90,6 +93,7 @@
      background-color: white;
      margin-left: 10px;
      font-size: 20px;
+     color: brown;
  }
  
  
@@ -123,7 +127,7 @@
  }
  
  
- .article3 .image .position_but  {
+ .article3 .image .xmark  {
      position: absolute;
      right: -2px;
      border: none;
@@ -138,6 +142,7 @@
      background-color: white;
      margin-left: 10px;
      font-size: 20px;
+     color: brown;
  }
  
  
